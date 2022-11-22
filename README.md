@@ -53,4 +53,4 @@ i.e.
 | Ctrl+A     | Selects all text.                                             |
 
 # Screenshot
-![screenshot_linux](misc/screenshot_linux)
+![screenshot_linux](misc/screenshot_linux.png)
