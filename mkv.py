@@ -16,6 +16,7 @@ class MarkDownViewer(QMainWindow, Ui_MainWindow):
 
         self.action_About_Markdown_Viewer.triggered.connect(self.showinfo)
         self.action_Open.triggered.connect(self.openfile)
+        self.action_About_Qt.triggered.connect(app.aboutQt)
 
         # Setup logging
         logging.basicConfig(
